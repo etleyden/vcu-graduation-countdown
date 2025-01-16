@@ -41,7 +41,7 @@ function App() {
       <div class="jumbotron">
         <img id="vculogo" src={CEOLogo} alt="VCU COE Logo" style={{width: '500px', height: 'auto'}}/>
         <p id="counter">{timeUntil}</p>
-        <p id="disclaimer">This site is not affiliate with Virginia Commonwealth University or the VCU College of Engineering.</p>
+        <p id="disclaimer">This site is not affiliated with Virginia Commonwealth University or the VCU College of Engineering.</p>
       </div>
     </>
   );
